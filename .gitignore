@@ -9,3 +9,4 @@
 **/wandb
 **/*.pdf
 **/arxiv-llm/textdata
+pyTDD/part1/__pycache__
