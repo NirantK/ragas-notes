@@ -12,7 +12,7 @@ class Ragoutput(BaseModel):
 
 
 
-PROMPT = "Your are expert document chatbot. Answer from following documents very veryt accurately."
+PROMPT = "Your are expert document chatbot. Answer from following documents."
 
 
 @dataclass
