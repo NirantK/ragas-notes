@@ -1,5 +1,11 @@
 .envrc
-
+*.csv
+*.DS_Store
+rag-playground/ragas-airline-dataset/
+arxiv-llm/
+ragas-demo/
+project.inlang.json
+questions.json
 # python
 **/.ipynb_checkpoints
 .python-version
