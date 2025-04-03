@@ -9,6 +9,7 @@ questions.json
 # python
 **/.ipynb_checkpoints
 .python-version
+*.pyc
 
 # integrations
 **/.chroma/index

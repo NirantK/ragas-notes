@@ -46,5 +46,3 @@ class AgentAI:
 
         return response.response
         
-
-agent = AgentAI()
