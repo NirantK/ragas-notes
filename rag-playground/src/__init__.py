@@ -1,3 +1,3 @@
-from src.main import AIAgent
+from src.main import AgentAI
 
-__all__ = ["AIAgent"]
+__all__ = ["AgentAI"]
