@@ -1,4 +1,5 @@
 .envrc
+.env
 *.csv
 *.DS_Store
 rag-playground/ragas-airline-dataset/
